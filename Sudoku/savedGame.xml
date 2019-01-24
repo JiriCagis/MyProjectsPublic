@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_51" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="main.data.Sudoku">
+    <void property="cells">
+     <void index="0">
+      <void index="2">
+       <void property="state">
+        <object class="java.lang.Enum" id="CellState0" method="valueOf">
+         <class>main.data.CellState</class>
+         <string>NOT_EDITABLE</string>
+        </object>
+       </void>
+       <void property="value">
+        <int>1</int>
+       </void>
+      </void>
+      <void index="3">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>6</int>
+       </void>
+      </void>
+      <void index="4">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>9</int>
+       </void>
+      </void>
+      <void index="5">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>2</int>
+       </void>
+      </void>
+      <void index="6">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>7</int>
+       </void>
+      </void>
+      <void index="8">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>3</int>
+       </void>
+      </void>
+     </void>
+     <void index="1">
+      <void index="0">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>6</int>
+       </void>
+      </void>
+      <void index="1">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>9</int>
+       </void>
+      </void>
+      <void index="2">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>2</int>
+       </void>
+      </void>
+      <void index="3">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>7</int>
+       </void>
+      </void>
+      <void index="4">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>4</int>
+       </void>
+      </void>
+      <void index="6">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>8</int>
+       </void>
+      </void>
+      <void index="7">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>5</int>
+       </void>
+      </void>
+      <void index="8">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>1</int>
+       </void>
+      </void>
+     </void>
+     <void index="2">
+      <void index="0">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>7</int>
+       </void>
+      </void>
+      <void index="1">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>4</int>
+       </void>
+      </void>
+      <void index="3">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>8</int>
+       </void>
+      </void>
+      <void index="4">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>5</int>
+       </void>
+      </void>
+      <void index="6">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>6</int>
+       </void>
+      </void>
+     </void>
+     <void index="3">
+      <void index="0">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>5</int>
+       </void>
+      </void>
+      <void index="1">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>8</int>
+       </void>
+      </void>
+      <void index="2">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>6</int>
+       </void>
+      </void>
+      <void index="4">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>2</int>
+       </void>
+      </void>
+      <void index="5">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>9</int>
+       </void>
+      </void>
+      <void index="6">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>4</int>
+       </void>
+      </void>
+      <void index="7">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>3</int>
+       </void>
+      </void>
+      <void index="8">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>7</int>
+       </void>
+      </void>
+     </void>
+     <void index="4">
+      <void index="0">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>1</int>
+       </void>
+      </void>
+      <void index="3">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>4</int>
+       </void>
+      </void>
+      <void index="5">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>7</int>
+       </void>
+      </void>
+      <void index="7">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>8</int>
+       </void>
+      </void>
+      <void index="8">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>6</int>
+       </void>
+      </void>
+     </void>
+     <void index="5">
+      <void index="0">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>4</int>
+       </void>
+      </void>
+      <void index="1">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>3</int>
+       </void>
+      </void>
+      <void index="2">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>7</int>
+       </void>
+      </void>
+      <void index="3">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>5</int>
+       </void>
+      </void>
+      <void index="4">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>8</int>
+       </void>
+      </void>
+      <void index="7">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>2</int>
+       </void>
+      </void>
+     </void>
+     <void index="6">
+      <void index="0">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>9</int>
+       </void>
+      </void>
+      <void index="1">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>1</int>
+       </void>
+      </void>
+      <void index="2">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>8</int>
+       </void>
+      </void>
+      <void index="3">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>2</int>
+       </void>
+      </void>
+      <void index="4">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>6</int>
+       </void>
+      </void>
+      <void index="5">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>5</int>
+       </void>
+      </void>
+      <void index="6">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>3</int>
+       </void>
+      </void>
+      <void index="7">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>7</int>
+       </void>
+      </void>
+      <void index="8">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>4</int>
+       </void>
+      </void>
+     </void>
+     <void index="7">
+      <void index="0">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>2</int>
+       </void>
+      </void>
+      <void index="2">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>5</int>
+       </void>
+      </void>
+      <void index="3">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>3</int>
+       </void>
+      </void>
+      <void index="4">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>7</int>
+       </void>
+      </void>
+      <void index="5">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>4</int>
+       </void>
+      </void>
+      <void index="6">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>9</int>
+       </void>
+      </void>
+      <void index="7">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>1</int>
+       </void>
+      </void>
+      <void index="8">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>8</int>
+       </void>
+      </void>
+     </void>
+     <void index="8">
+      <void index="0">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>3</int>
+       </void>
+      </void>
+      <void index="1">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>7</int>
+       </void>
+      </void>
+      <void index="2">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>4</int>
+       </void>
+      </void>
+      <void index="3">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>9</int>
+       </void>
+      </void>
+      <void index="4">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>1</int>
+       </void>
+      </void>
+      <void index="5">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>8</int>
+       </void>
+      </void>
+      <void index="6">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>2</int>
+       </void>
+      </void>
+      <void index="7">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>6</int>
+       </void>
+      </void>
+      <void index="8">
+       <void property="state">
+        <object idref="CellState0"/>
+       </void>
+       <void property="value">
+        <int>5</int>
+       </void>
+      </void>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

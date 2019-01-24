@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_79" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="data.ServerInfo">
+    <void property="automaticSynchnize">
+     <boolean>true</boolean>
+    </void>
+    <void property="id">
+     <int>0</int>
+    </void>
+    <void property="restartScript">
+     <string>C:\project\server_utility\script\Restart_Administration_Prometera_Local.bat</string>
+    </void>
+    <void property="serverName">
+     <string>Admin Prom Loc</string>
+    </void>
+    <void property="sourceFolder">
+     <string>C:\project\energy\Administration\admin-web\src\main\webapp</string>
+    </void>
+    <void property="startScript">
+     <string>C:\project\server_utility\script\Start_Administration_Prometera_Local.bat</string>
+    </void>
+    <void property="stopScript">
+     <string>C:\project\server_utility\script\Stop_Server.bat</string>
+    </void>
+    <void property="targetFolder">
+     <string>C:\project\server_tomee\webapps\Administration</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
